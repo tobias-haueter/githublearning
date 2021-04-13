@@ -12,7 +12,7 @@
 
 
 
-
+![img](img/tuxMascott.svg)
 
 ---
 
