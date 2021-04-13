@@ -12,7 +12,7 @@
 
 
 
-![img](img/mdIcon.png)
+![img](img/gitMd.png)
 
 ---
 
