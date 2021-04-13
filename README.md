@@ -6,7 +6,7 @@
 
 ---
 
-[ChangeLog](changeLog.md) 		**Version:** v_0.1.0		**Last change:** 13.04.2021
+[ChangeLog] (changeLog.md)   **Version:** v_0.1.0		**Last change:** 13.04.2021
 
 ---
 
