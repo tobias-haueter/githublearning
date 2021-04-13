@@ -35,7 +35,7 @@
 
 Lorem ipsum
 
-[BackToTop](#table of content)
+[BackToTop](#tableofcontent)
 
 ---
 
