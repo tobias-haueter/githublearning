@@ -1,4 +1,4 @@
-# Changelog - template
+# Changelog - Githublearning
 
 All notable changes to this project will be documented in this file.
 
