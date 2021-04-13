@@ -22,7 +22,7 @@
 
 > # TABLE OF CONTENT
 
-[TOC]
+1. Lorem ipsum
 
 ---
 
